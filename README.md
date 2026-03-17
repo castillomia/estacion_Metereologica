@@ -1,2 +1,3 @@
-# estacion_Metereologica
-Proyecto integrador de las materias de la especialidad de 5to año 2026
+# estacion_Metereologica PRoA  
+## Integrantes: MIA BRISA CASTILLO 
+* sensor de temperatura, humedad y presion. 
