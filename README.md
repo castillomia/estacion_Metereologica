@@ -1,3 +1,19 @@
-# estacion_Metereologica PRoA  
-## Integrantes: MIA BRISA CASTILLO 
-* sensor de temperatura, humedad y presion. 
+# Proyecto: Estación Meteorológica 2026
+
+## Especialidad / 5to Año
+Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en Python y Análisis de datos.
+
+### Datos:
+| Apellido y Nombre | E-mail | GitHub |
+| :---: | :---: | :---: | 
+CASTILLO, MIA | mbcastillo@escuelasproa.edu.ar |https://github.com/castillomia/estacion_Metereologica.git |
+ver perfil 
+
+
+## Estructura del Proyecto
+* **analisis_ipynb/** Prototipado de datos en Google Colab.
+* **arduino_ino/** Código fuente para el Arduino UNO R3.
+* **dashboard_pbix/**: Reportes en Power BI.
+* **database_sql/**: Scripts de MySQL Workbench.
+* **docs/**: Documentación y leyes de software.
+* **python_app/**: Aplicación de escritorio (POO).
