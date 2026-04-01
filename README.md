@@ -6,8 +6,8 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos:
 | Apellido y Nombre | E-mail | GitHub |
 | :---: | :---: | :---: | 
-CASTILLO, MIA | mbcastillo@escuelasproa.edu.ar |https://github.com/castillomia/estacion_Metereologica.git |
-ver perfil 
+CASTILLO, MIA | mbcastillo@escuelasproa.edu.ar |[ver perfil] (https://github.com/castillomia/estacion_Metereologica.git)|
+
 
 
 ## Estructura del Proyecto
