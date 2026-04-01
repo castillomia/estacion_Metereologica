@@ -36,4 +36,3 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 * [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
 * [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
-
